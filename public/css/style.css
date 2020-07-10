@@ -1,0 +1,15 @@
+
+body {
+  background-color: whitesmoke;
+  -wekit-font-smoothing: antialiased;
+  
+}
+
+.comment__box {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.comment__box .comment h6 {
+  font-weight: 800;
+}
